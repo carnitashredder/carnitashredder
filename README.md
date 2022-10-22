@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carnitashredder
+- 👀 I’m interested in tinkering
+- 🌱 I’m currently learning C++
